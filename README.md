@@ -21,7 +21,7 @@ The notebook performs:
 Clone the repo and install the requirements:
 
 ```bash
-git clone https://github.com/yourusername/Knee-OA-Classification.git
+git clone https://github.com/milindchoudryus/-Knee-Osteoarthritis-OA-Severity-Classification-Using-Computer-Vision.git
 cd Knee-OA-Classification
 pip install -r requirements.txt
 ```
